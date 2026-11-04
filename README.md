@@ -5,6 +5,7 @@
 - `Data/wine_quality.csv` – датасет [Wine Quality](https://archive.ics.uci.edu/dataset/186/wine+quality) (P. Cortez et al., 2009, CC BY 4.0)
 
 Приложение: https://6pz5nqe8ny3nh8ioacbrb2.streamlit.app/
+
 Локальный запуск приложения (нужен Python 3.12):
 
 ```bash
